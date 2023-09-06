@@ -1,4 +1,4 @@
-# Medical and Data Science Research Labs Israel
+# Academic Research Lab - Medical and Data Science Israel
 
 
 ## Tel Aviv University
