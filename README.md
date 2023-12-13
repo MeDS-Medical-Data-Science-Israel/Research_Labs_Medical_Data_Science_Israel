@@ -91,6 +91,7 @@
 
 | Lab Name | Institute |  Department |Website|
 | - |--- | --- |--- |
+| Ilana Nisky |Ben-Gurion|Biomedical Engineering |[link](http://bioroblab.weebly.com/)|
 | Lior Rokach |Ben-Gurion|Information Systems Engineering |[link](https://www.ise.bgu.ac.il/faculty/liorr/)|
 | Oren Shriki |Ben-Gurion|Cognitive and Brain Sciences |[link](https://www.computational-psychiatry.com/)|
 | Nadav Rappoport |Ben-Gurion|Cognitive and Brain Sciences |[link](https://nadavrap.com/)|
@@ -108,6 +109,8 @@
 | Alon Friedman |Ben-Gurion|Cognitive and Brain Sciences |[link](https://www.bbbscience.com/team)|
 | Galia Avidan |Ben-Gurion|Psychology |[link](https://www.galiaavidanlab.com/)|
 | Lior Shmuelof |Ben-Gurion|neuroscience |[link](https://in.bgu.ac.il/en/humsos/bal/Pages/default.aspx)|
+​
+
 </details>
   
 ## Hebrew University
