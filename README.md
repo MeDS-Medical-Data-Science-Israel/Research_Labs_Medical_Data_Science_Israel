@@ -138,8 +138,8 @@
 | - |--- | --- |--- |
 | Mor Peleg |Haifa|Information Systems |[link](https://sites.google.com/hevra.haifa.ac.il/mpeleg/home?authuser=0)|
 | Pavel Goldstein |Haifa|Public Health |[link](https://pain.haifa.ac.il/)|
-
-
+| Bella Specktor Fadida |Haifa| Medical Imaging |[link](https://www.linkedin.com/in/specktor/)|
+| Shira Rotman |Haifa| Medical Imaging |[link](https://pr.haifa.ac.il/2023/03/02/prof-shira-rotman-2/)|
 ## Ariel University
 
 | Lab Name | Institute |  Department |Website|
