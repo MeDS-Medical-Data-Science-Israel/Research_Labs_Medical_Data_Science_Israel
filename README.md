@@ -136,10 +136,10 @@
 
 | Lab Name | Institute |  Department |Website| Google Scholar|
 | - |--- | --- |--- |--- |
-| Mor Peleg |Haifa|Information Systems |[link](https://sites.google.com/hevra.haifa.ac.il/mpeleg/home?authuser=0)| |
-| Pavel Goldstein |Haifa|Public Health |[link](https://pain.haifa.ac.il/)| 
-| Bella Specktor Fadida |Haifa| Medical Imaging |[link](https://www.linkedin.com/in/specktor/)|[link](https://scholar.google.co.il/citations?user=SFoiA_wAAAAJ&hl=en)|
-| Shira Rotman |Haifa| Medical Imaging |[link](https://pr.haifa.ac.il/2023/03/02/prof-shira-rotman-2/)| |
+| Mor Peleg |Haifa|Information Systems | |[link](https://sites.google.com/hevra.haifa.ac.il/mpeleg/home?authuser=0)| |
+| Pavel Goldstein |Haifa|Public Health  |[link](https://pain.haifa.ac.il/)|[link](https://scholar.google.co.il/citations?user=LyivYq8AAAAJ&hl=en&inst=2457744612629960019)|
+| Bella Specktor Fadida |Haifa| Medical Imaging Sciences |[link](https://www.linkedin.com/in/specktor/)|[link](https://scholar.google.co.il/citations?user=SFoiA_wAAAAJ&hl=en)|
+| Shira Rotman |Haifa| Medical Imaging Sciences |[link](https://pr.haifa.ac.il/2023/03/02/prof-shira-rotman-2/)| [link](https://scholar.google.com/citations?user=vlxnzQQAAAAJ&hl=en&inst=2457744612629960019)|
 ## Ariel University
 
 | Lab Name | Institute |  Department |Website|
