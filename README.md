@@ -145,6 +145,7 @@
 | Lab Name | Institute |  Department |Website|
 | - |--- | --- |--- |
 | Chen Hajaj |Ariel| Industrial Engineering and Management |[link](https://www.ariel.ac.il/wp/chen-hajaj/)|
+| Teddy Lazebnik |Ariel| Applied Mathematics and Computer Science |[link](https://teddylazebnik.com/)|
 
 
 ## Holon Institute of Technology (HIT)
